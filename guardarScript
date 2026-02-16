@@ -1,0 +1,8 @@
+DROP table clientes
+create table clientes(
+cedula char(10) NOT NULL,
+nombre varchar(50) NOT NULL,
+apellido varchar(50) NOT NULL,
+edad int,
+CONSTRAINT personas_pk PRIMARY KEY (cedula)
+)
