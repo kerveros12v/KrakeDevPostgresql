@@ -110,6 +110,7 @@ insert into municipio values (1,'GAD MUNICIPAL QUITO',1),
 							 (9,'MUNICIPIO DE LATACUNGA',9),
 							 (10,'MUNICIPIO DE TENA',10);
 
+--- Faltan registros para realizar las respectivas consultas
 
 insert into proyecto values (1,'Proyectos de Gestión Ambiental',9543.327,'10/02/2022','10/02/2023'),
 							(2,'Proyectos en Fomento y Desarrollo Productivo',26553.264,'25/06/2022','10/08/2022'),
